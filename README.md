@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0717-1-bit-and-2-bit-characters) |
 <!---LeetCode Topics End-->
