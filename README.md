@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2211-count-collisions-on-a-road) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2211-count-collisions-on-a-road) |
 | [2487-remove-nodes-from-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3625-count-number-of-trapezoids-ii) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
