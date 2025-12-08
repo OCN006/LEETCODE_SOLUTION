@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0007-reverse-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1925-count-square-sum-triples](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3623-count-number-of-trapezoids-i) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
