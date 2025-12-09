@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3583-count-special-triplets](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Linked List
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Recursion
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1925-count-square-sum-triples) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
