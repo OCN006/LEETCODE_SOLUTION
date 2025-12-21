@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3531-count-covered-buildings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3606-coupon-code-validator) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3433-count-mentions-per-user) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue
