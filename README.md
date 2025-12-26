@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2211-count-collisions-on-a-road) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
