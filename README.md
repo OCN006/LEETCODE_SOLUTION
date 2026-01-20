@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3531-count-covered-buildings) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
