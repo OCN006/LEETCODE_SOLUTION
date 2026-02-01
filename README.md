@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0148-sort-list) |
+| [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3583-count-special-triplets](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3583-count-special-triplets) |
 ## Brainteaser
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [2054-two-best-non-overlapping-events](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -342,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
