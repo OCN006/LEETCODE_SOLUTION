@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2487-remove-nodes-from-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0234-palindrome-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
