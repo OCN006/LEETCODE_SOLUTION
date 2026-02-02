@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3531-count-covered-buildings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [2054-two-best-non-overlapping-events](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3650-minimum-cost-path-with-edge-reversals) |
