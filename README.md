@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Recursion
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
 | ------- |
