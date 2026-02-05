@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0234-palindrome-linked-list) |
@@ -284,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [2092-find-all-people-with-secret](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0232-implement-queue-using-stacks) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
