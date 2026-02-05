@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0055-jump-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0907-sum-of-subarray-minimums) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
