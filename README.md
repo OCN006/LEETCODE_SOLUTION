@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -484,10 +485,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
