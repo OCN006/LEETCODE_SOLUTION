@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0148-sort-list) |
+| [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1903-largest-odd-number-in-string) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search
@@ -476,4 +480,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
