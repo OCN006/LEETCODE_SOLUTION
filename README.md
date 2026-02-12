@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [2092-find-all-people-with-secret](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
@@ -554,4 +558,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
