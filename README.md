@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0057-insert-interval) |
 | [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
