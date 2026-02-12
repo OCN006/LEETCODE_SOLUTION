@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0057-insert-interval) |
+| [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0662-maximum-width-of-binary-tree) |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
