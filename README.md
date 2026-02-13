@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3074-apple-redistribution-into-boxes) |
+| [3169-count-days-without-meetings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3169-count-days-without-meetings) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3074-apple-redistribution-into-boxes) |
+| [3169-count-days-without-meetings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3169-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3606-coupon-code-validator) |
