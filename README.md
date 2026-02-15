@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0067-add-binary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1903-largest-odd-number-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1925-count-square-sum-triples) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0205-isomorphic-strings) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0067-add-binary) |
 | [2211-count-collisions-on-a-road](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2211-count-collisions-on-a-road) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3379-transformed-array) |
