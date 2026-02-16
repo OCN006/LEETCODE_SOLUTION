@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0621-task-scheduler) |
+| [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -605,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 ## Sweep Line
 |  |
 | ------- |
