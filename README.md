@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0696-count-binary-substrings) |
 | [0986-interval-list-intersections](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0986-interval-list-intersections) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0960-delete-columns-to-make-sorted-iii) |
