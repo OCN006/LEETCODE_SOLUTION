@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1903-largest-odd-number-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1925-count-square-sum-triples) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
