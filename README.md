@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3721-longest-balanced-subarray-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0621-task-scheduler) |
+| [0761-special-binary-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0846-hand-of-straights) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0960-delete-columns-to-make-sorted-iii) |
