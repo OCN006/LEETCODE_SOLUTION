@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0202-happy-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1903-largest-odd-number-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1925-count-square-sum-triples) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3314-construct-the-minimum-bitwise-array-i) |
