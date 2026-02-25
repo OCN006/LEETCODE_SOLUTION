@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0846-hand-of-straights) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0621-task-scheduler) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3583-count-special-triplets](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3713-longest-balanced-substring-i) |
