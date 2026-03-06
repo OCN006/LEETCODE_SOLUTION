@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1903-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
