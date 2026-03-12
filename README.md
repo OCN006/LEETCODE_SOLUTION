@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1903-largest-odd-number-in-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3074-apple-redistribution-into-boxes) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Backtracking
 |  |
 | ------- |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Geometry
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sweep Line
 |  |
 | ------- |
@@ -686,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0802-find-eventual-safe-states) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
