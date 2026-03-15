@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0202-happy-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1622-fancy-sequence](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1925-count-square-sum-triples) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0232-implement-queue-using-stacks) |
+| [1622-fancy-sequence](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1622-fancy-sequence) |
 ## Binary Tree
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3721-longest-balanced-subarray-ii) |
 ## Iterator
