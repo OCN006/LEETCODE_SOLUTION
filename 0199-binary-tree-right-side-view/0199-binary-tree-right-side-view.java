@@ -14,29 +14,23 @@
  * }
  */
 class Solution {
+    public static int levels(TreeNode root){
+        if(root==null) return 0;
+        return 1 + Math.max(levels(root.left),levels(root.right));
+    }
+    public static void preOrder(TreeNode root ,List<Integer> ans ,int level){
+        if(root==null) return ;
+        ans.set(level,root.val);
+        preOrder(root.left,ans,level+1);
+        preOrder(root.right,ans,level+1);
+    }
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> output = new ArrayList<>();
-        if(root==null){
-            return output;
+        List<Integer> ans = new ArrayList<>();
+        int n = levels(root);
+        for(int i=0;i<n;i++){
+            ans.add(0);
         }
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        while(!queue.isEmpty()){
-            int length = queue.size();
-            for(int i=0;i<length;i++){
-                TreeNode poppedNode = queue.remove();
-                if(i==length-1){
-                    //Last Node in the depth level.
-                    output.add(poppedNode.val);
-                }
-                if(poppedNode.left!=null){
-                    queue.add(poppedNode.left);
-                }
-                if(poppedNode.right!=null){
-                    queue.add(poppedNode.right);
-                }
-            }
-        }
-        return output;
+        preOrder(root,ans,0);
+        return ans ;
     }
 }
