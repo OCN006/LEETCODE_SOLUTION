@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3074-apple-redistribution-into-boxes) |
 | [3169-count-days-without-meetings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3169-count-days-without-meetings) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3606-coupon-code-validator) |
