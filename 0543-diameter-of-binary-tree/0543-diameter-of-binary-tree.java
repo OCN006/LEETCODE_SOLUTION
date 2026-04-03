@@ -17,16 +17,15 @@ class Solution {
     int maxDia;
     public int levels(TreeNode root){
         if(root==null) return 0;
-        return 1+Math.max(levels(root.left),levels(root.right));
-    }
-    public int diameterOfBinaryTree(TreeNode root) {
-         if(root==null) return 0;
         int LST = levels(root.left);
         int RST = levels(root.right);
         int dia = LST+RST;
         maxDia=Math.max(dia,maxDia);
-        diameterOfBinaryTree(root.left);
-        diameterOfBinaryTree(root.right);
+        return 1+Math.max(LST,RST);
+    }
+    public int diameterOfBinaryTree(TreeNode root) {
+         if(root==null) return 0;
+        levels(root);
         return maxDia;
     }
 }
