@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2211-count-collisions-on-a-road) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Tree
 |  |
 | ------- |
