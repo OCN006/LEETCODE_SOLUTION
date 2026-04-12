@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1021-remove-outermost-parentheses) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0907-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1653-minimum-deletions-to-make-string-balanced) |
