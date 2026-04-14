@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0057-insert-interval) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0761-special-binary-string) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0113-path-sum-ii) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0113-path-sum-ii) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
