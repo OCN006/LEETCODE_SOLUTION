@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1539-kth-missing-positive-number) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2092-find-all-people-with-secret) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2092-find-all-people-with-secret) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [2573-find-the-string-with-lcp](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2573-find-the-string-with-lcp) |
