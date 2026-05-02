@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1622-fancy-sequence](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1622-fancy-sequence) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
+| [0396-rotate-function](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0055-jump-game) |
+| [0396-rotate-function](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0907-sum-of-subarray-minimums) |
