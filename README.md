@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0148-sort-list) |
