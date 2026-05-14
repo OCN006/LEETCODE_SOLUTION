@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2784-check-if-array-is-good](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3488-closest-equal-element-queries) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2906-construct-product-matrix) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2463-minimum-total-distance-traveled) |
+| [2784-check-if-array-is-good](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3074-apple-redistribution-into-boxes) |
