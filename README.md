@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2402-meeting-rooms-iii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2059-unique-length-3-palindromic-subsequences) |
