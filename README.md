@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
