@@ -1,40 +1,24 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        int islands = 0;
-        int rows = grid.length;
-        int cols = grid[0].length;
-        Set<String> visited = new HashSet<>();
-
-        int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (grid[r][c] == '1' && !visited.contains(r + "," + c)) {
-                    islands++;
-                    bfs(grid, r, c, visited, directions, rows, cols);
+        int m = grid.length ,  n = grid[0].length;
+        boolean [][] vis = new boolean[m][n];
+        int count =0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]=='1' && vis[i][j]==false){
+                    dfs(i,j,grid,vis);
+                    count++;
                 }
             }
         }
-
-        return islands;        
+        return count;
     }
-
-    private void bfs(char[][] grid, int r, int c, Set<String> visited, int[][] directions, int rows, int cols) {
-        Queue<int[]> q = new LinkedList<>();
-        visited.add(r + "," + c);
-        q.add(new int[]{r, c});
-
-        while (!q.isEmpty()) {
-            int[] point = q.poll();
-            int row = point[0], col = point[1];
-
-            for (int[] direction : directions) {
-                int nr = row + direction[0], nc = col + direction[1];
-                if (nr >= 0 && nr < rows && nc >= 0 && nc < cols && grid[nr][nc] == '1' && !visited.contains(nr + "," + nc)) {
-                    q.add(new int[]{nr, nc});
-                    visited.add(nr + "," + nc);
-                }
-            }
-        }
-    }    
+    static void dfs(int i ,int j , char [][] grid , boolean [][] vis){
+        int m = grid.length ,  n = grid[0].length;
+        vis[i][j]=true;
+        if(i+1<=m-1 && grid[i+1][j]=='1' && vis[i+1][j]==false) dfs(i+1,j,grid,vis);
+        if(i-1>=0 && grid[i-1][j]=='1' && vis[i-1][j]==false) dfs(i-1,j,grid,vis);
+        if(j+1<=n-1 && grid[i][j+1]=='1' && vis[i][j+1]==false) dfs(i,j+1,grid,vis);
+        if(j-1>=0 && grid[i][j-1]=='1' && vis[i][j-1]==false) dfs(i,j-1,grid,vis);
+    }
 }
