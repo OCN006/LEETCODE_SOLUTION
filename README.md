@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0846-hand-of-straights) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0696-count-binary-substrings) |
 | [0986-interval-list-intersections](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0986-interval-list-intersections) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0696-count-binary-substrings) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0930-binary-subarrays-with-sum) |
