@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 | [0396-rotate-function](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0621-task-scheduler) |
