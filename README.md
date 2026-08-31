@@ -926,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0196-delete-duplicate-emails) |
+| [0595-big-countries](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0595-big-countries) |
 ## Number Theory
 |  |
 | ------- |
