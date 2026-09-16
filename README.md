@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0874-walking-robot-simulation) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0907-sum-of-subarray-minimums) |
