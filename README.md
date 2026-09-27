@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/2054-two-best-non-overlapping-events) |
