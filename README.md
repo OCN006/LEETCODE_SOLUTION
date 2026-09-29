@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0788-rotated-digits) |
+| [0973-k-closest-points-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1137-n-th-tribonacci-number) |
 | [1622-fancy-sequence](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1622-fancy-sequence) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0930-binary-subarrays-with-sum) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0973-k-closest-points-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1004-max-consecutive-ones-iii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0761-special-binary-string) |
+| [0973-k-closest-points-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0621-task-scheduler) |
 | [0761-special-binary-string](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0846-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [3623-count-number-of-trapezoids-i](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Simulation
@@ -786,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0743-network-delay-time) |
+| [0973-k-closest-points-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -976,4 +982,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/OCN006/LEETCODE_SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
